@@ -1,0 +1,100 @@
+{
+    "name":"rush_purchase",
+    "num":4,
+    "pictures":[
+        {"src":"http://img57.ddimg.cn/9001320259981617.jpg"},
+        {"src":"http://img61.ddimg.cn/upload_img/00896/ts/lcdt-1650785376.jpg"},
+        {"src":"http://img57.ddimg.cn/9001320259981617.jpg"},
+        {"src":"http://img60.ddimg.cn/ddreader/dangebook/left_logo-20220426.jpg"}
+    ],
+    "options":[
+        {"text":["童书","中小学教辅","外语","考试","小说","文学","青春文学","成功/励志","管理","历史","亲子/家教"]},
+        {"text":["童书","中小学教辅","外语","考试","小说","文学","青春文学","成功/励志","管理","历史","亲子/家教"]},
+        {"text":["童书","中小学教辅","外语","考试","小说","文学","青春文学","成功/励志","管理","历史","亲子/家教"]},
+        {"text":["网文","小说","经管励志","文艺","社科","生活","新书榜","畅销榜"]}
+    ],
+    "texts":[
+        {"src":"http://img62.ddimg.cn/upload_img/00886/xssdi/lcbanner-1651144717.jpg","text":"童书新书速递2022年4月号"},
+        {"src":"http://img61.ddimg.cn/upload_img/00896/ts/3-6lcbanner-1650785376.jpg","text":"阅读盛宴 爆品童书抢购"},
+        {"src":"http://img61.ddimg.cn/upload_img/00896/ts/7-10lcbanner-1650785376.jpg","text":"阅读盛宴 童书每满100减50"},
+        {"src":"http://img60.ddimg.cn/ddreader/dangebook/0616ydq.jpg","text":"当当阅读器 新品上市"}
+    ],
+    "items":[
+        {"src":"https://img3m9.ddimg.cn/82/3/29390509-1_l_3.jpg","name":"金融模式：深入解析金融巨头兴衰成败的底层逻辑","cost":"¥21.50"},
+        {"src":"https://img3m9.ddimg.cn/91/26/29361709-1_l_9.jpg","name":"空间站全景立体书：繁星作伴好还乡","cost":"¥21.50"},
+        {"src":"https://img3m4.ddimg.cn/2/20/29316674-1_l_6.jpg","name":"百年孤独100万册纪念套装","cost":"¥21.50"},
+        {"src":"https://img3m8.ddimg.cn/72/36/29278728-1_l_17.jpg","name":"六层楼先生 怀孕呵护指南","cost":"¥21.50"},
+        {"src":"https://img3m7.ddimg.cn/85/29/29316757-1_l_8.jpg","name":"半小时漫画中国史（礼盒版）","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/51/2/29267520-1_l_29.jpg","name":"效率人生（告诉你如何迅速抵达人生的目标）","cost":"¥21.50"}
+    ],
+    "datas":[
+        {"src":"https://img3m5.ddimg.cn/27/29/29297295-1_l_3.jpg","name":"大耍儿：1-4（附独家短篇《神人老马》）","cost":"¥21.50"},
+        {"src":"https://img3m4.ddimg.cn/31/15/29354224-1_l_6.jpg","name":"小学生思维方式漫画","cost":"¥21.50"},
+        {"src":"https://img3m8.ddimg.cn/5/29/29292818-1_l_10.jpg","name":"Bibi动物园","cost":"¥21.50"},
+        {"src":"https://img3m6.ddimg.cn/22/25/25206016-1_l_12.jpg","name":"古代人的日常生活","cost":"¥21.50"},
+        {"src":"https://img3m6.ddimg.cn/22/25/25206016-1_l_12.jpg","name":"业力管理","cost":"¥21.50"},
+        {"src":"https://img3m9.ddimg.cn/64/19/29363959-1_l_8.jpg","name":"我不！我不！","cost":"¥21.50"}
+    ],
+    "keys":[
+        {"src":"https://img3m5.ddimg.cn/13/6/29327575-1_l_8.jpg","name":"传统色日历","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/13/6/29327575-1_l_8.jpg","name":"山海经里的故事","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/13/6/29327575-1_l_8.jpg","name":"【樊登推荐】 考试脑科学 脑科学中的高效记忆法","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/13/6/29327575-1_l_8.jpg","name":"史记（文白对照本）","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/13/6/29327575-1_l_8.jpg","name":"沙丘六部曲（同名电影全国上映！）","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/13/6/29327575-1_l_8.jpg","name":"置身事内：中国政府与经济","cost":"¥21.50"}
+    ],
+    "ebooks":[
+        {"src":"http://img60.ddimg.cn/ebook/201709/dslc-lz-2.jpg","text":"电子书排行榜 便宜又好看"},
+        {"src":"http://img63.ddimg.cn/ebook/201709/dslc-lz-3.jpg","text":"5元电子书 本本精品随便看"},
+        {"src":"https://img3m1.ddimg.cn/35/36/1901291471-1_l_1.jpg","name":"在吗","cost":"¥21.50"},
+        {"src":"https://img3m4.ddimg.cn/65/29/1901295164-1_l_1.jpg","name":"漫画大唐怪奇故事","cost":"¥21.50"},
+        {"src":"https://img3m2.ddimg.cn/63/27/1901295162-1_l_1.jpg","name":"说出来你别不信","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/42/21/1901292270-1_l_1.jpg","name":"国学之美，汉字之仪（共4册）","cost":"¥21.50"},
+        {"src":"https://img3m1.ddimg.cn/9/18/1901293821-1_l_1.jpg","name":"同名同姓受害者协会","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/85/15/1901296075-1_l_1.jpg","name":"特战荣耀（全集）","cost":"¥21.50"}
+    ],
+    "bestseller_brief":["人生海海","生死疲劳","蛤蟆先生去看心理医生","被讨厌的勇气","活着","马尔克斯：百年孤独","你当像鸟飞往你的山","杀死一只知更鸟","三体","文城"],
+    "children_book":["一古拉的岔路口奇遇","大中华寻宝系列29","《这就是生物》","小鸡球球成长绘本系列","洛洛学专注","我是中国的孩子","改变世界的女孩","特种兵学校","怪物旅馆","向太空出发"],
+    "bestseller_brief_detail":[
+        {
+            "src":"https://img3m5.ddimg.cn/51/34/26921715-1_l.jpg",
+            "text":"人生海海（麦家重磅力作，莫言、董卿盛赞，连续两年高居畅销榜，发行量超200万册）"
+        },
+        {
+            "src":"https://img3m9.ddimg.cn/71/33/28992419-1_l.jpg",
+            "text":"生死疲劳（不看不知道，莫言真幽默！全新版本！印章版和普通版随机发货）"
+        },
+        {
+            "src":"https://img3m5.ddimg.cn/37/23/29343835-1_l.jpg",
+            "text":"蛤蟆先生去看心理医生（年销200万册！英国经典心理咨询入门书，知名心理学家李松蔚强烈推荐）"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"被讨厌的勇气：“自我启发之父”阿德勒的哲学课"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"活着（余华代表作，精装，易烊千玺推荐阅读。当当专享印签藏书票+限量赠珍藏复刻手稿）"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"马尔克斯：百年孤独（50周年纪念版）新版典藏内封。加西亚-马尔克斯代表作，惟一正式中文版，未作任何删减"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"你当像鸟飞往你的山（中文版销量超200万册，比尔-盖茨年度特别推荐！登顶《纽约时报》畅销榜80+周，这本书"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"杀死一只知更鸟（豆瓣9.2，关于勇气与正义的成长教科书，影响全球5000万家庭的“教养宝典”，奥巴马、贝尔"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"三体：全三册 刘慈欣代表作，亚洲“雨果奖”获奖作品！《三体》第73届世界科幻雨果奖获奖作品，银河奖"
+        },
+        {
+            "src":"https://img3m3.ddimg.cn/23/25/29311943-1_l.jpg",
+            "text":"文城（余华新书，时隔8年重磅归来，《活着》之后又一精彩力作）"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "name":"recommend_part",
+    "num":12,
+    "items":[
+        {"src":"https://img3m5.ddimg.cn/51/34/26921715-1_h_12.jpg","name":"次第花开","cost":"¥21.50"},
+        {"src":"https://img3m9.ddimg.cn/71/33/28992419-1_h_50.jpg","name":"被讨厌的勇气","cost":"¥21.50"},
+        {"src":"https://img3m4.ddimg.cn/32/35/23579654-1_h_6.jpg","name":"消失的13级台阶","cost":"¥21.50"},
+        {"src":"https://img3m5.ddimg.cn/37/23/29343835-1_h_18.jpg","name":"少年读史记","cost":"¥21.50"},
+        {"src":"https://img3m2.ddimg.cn/0/27/28473192-1_h_15.jpg","name":"阅读的方法","cost":"¥21.50"},
+        {"src":"https://img3m2.ddimg.cn/62/32/25119332-1_h_1.jpg","name":"数是怎么来的","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/61/3/23444350-1_h_52.jpg","name":"神奇的校车","cost":"¥21.50"},
+        {"src":"https://img3m9.ddimg.cn/77/23/25295369-1_h_37.jpg","name":"西兰花先生的理发店","cost":"¥21.50"},
+        {"src":"https://img3m2.ddimg.cn/33/26/28518072-1_h_7.jpg","name":"人生海海","cost":"¥21.50"},
+        {"src":"https://img3m8.ddimg.cn/82/19/25252408-1_h_79.jpg","name":"生命简史","cost":"¥21.50"},
+        {"src":"https://img3m1.ddimg.cn/80/1/23778791-1_h_1.jpg","name":"蛤蟆先生去看心理医生","cost":"¥21.50"},
+        {"src":"https://img3m7.ddimg.cn/93/34/26315877-1_h_1.jpg","name":"解忧杂货店","cost":"¥21.50"}
+    ]
+}

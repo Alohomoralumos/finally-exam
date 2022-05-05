@@ -1,0 +1,33 @@
+{
+    "name":"main_show",
+    "num":4,
+    "main_pictures":[
+        "http://img60.ddimg.cn/2022/4/29/2022042918215099025.jpeg",
+        "http://img60.ddimg.cn/2022/4/29/2022042918550631754.jpeg",
+        "http://img60.ddimg.cn/2022/4/29/2022042917275381631.jpeg",
+        "http://img61.ddimg.cn/2022/4/29/2022042918303699753.jpeg",
+        "http://img63.ddimg.cn/2022/4/29/2022042917392564990.jpeg",
+        "http://img61.ddimg.cn/2022/4/29/2022042919205247030.jpeg",
+        "http://img60.ddimg.cn/2022/4/29/2022042918550631754.jpeg",
+        "http://img62.ddimg.cn/2022/4/29/2022042917333986774.jpeg"
+    ],
+    "bottom_pictures_1":[
+        "http://img63.ddimg.cn/2022/4/29/2022042916301844731.jpeg",
+        "http://img60.ddimg.cn/2022/4/29/2022042916414521717.jpeg",
+        "http://img62.ddimg.cn/2022/4/27/2022042714255636694.jpg",
+        "http://img60.ddimg.cn/2022/4/29/2022042916455516858.jpeg"
+    ],
+    "bottom_pictures_2":[
+        "http://img61.ddimg.cn/2022/4/29/202204291103502077.jpeg",
+        "http://img62.ddimg.cn/2021/4/12/2021041211204026333.jpg",
+        "http://img61.ddimg.cn/2022/4/29/2022042916263484539.jpeg",
+        "http://img60.ddimg.cn/2022/3/8/2022030815382526753.jpg"
+    ],
+    "right_pictures":[
+        "http://img60.ddimg.cn/upload_img/00785/xssd202204/2204xs202x119-1648695662.jpg",
+        "http://img60.ddimg.cn/upload_img/00549/youxiaxiaobanner/qixianshengmiaoxiaojie2-1559267193.jpg",
+        "http://img60.ddimg.cn/ddimg/2476/pctabqian-1650969753.jpg"
+    ],
+    "news_texts":["关于谨防诈骗的重要提示","话费卡兑换当当礼品卡","多种商品，礼品卡支付更优惠","【虚假发货】-处罚公告"],
+    "service_texts":["巴拉巴拉限时3件3.5折","图书5折封顶","良品铺子大牌日 满300-200","精选童书5折封顶","文艺社科-经管生活好书5折封顶"]
+}

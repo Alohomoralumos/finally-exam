@@ -1,0 +1,128 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "116271",
+      "name": "篮子",
+      "font_class": "basket2",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "238094",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "263044",
+      "name": "蛋糕",
+      "font_class": "dangao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "575780",
+      "name": "sale",
+      "font_class": "sale",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "854433",
+      "name": "购物车",
+      "font_class": "gouwuche-copy",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2528978",
+      "name": "充",
+      "font_class": "chong",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "3347319",
+      "name": "奶瓶",
+      "font_class": "naiping",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5219478",
+      "name": "厕纸",
+      "font_class": "cezhi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "8050666",
+      "name": "粮油",
+      "font_class": "liangyou",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13106425",
+      "name": "饮料 (1)",
+      "font_class": "yinliao",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "14876651",
+      "name": "shouji",
+      "font_class": "shouji1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "16924675",
+      "name": "房屋",
+      "font_class": "fangwu",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "18625682",
+      "name": "剪刀",
+      "font_class": "jiandao",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "19570335",
+      "name": "飞机",
+      "font_class": "jipiao-copy",
+      "unicode": "e561",
+      "unicode_decimal": 58721
+    },
+    {
+      "icon_id": "20323293",
+      "name": "口红",
+      "font_class": "kouhong",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "20436837",
+      "name": "便签",
+      "font_class": "zealui-icon-_58_bianqian",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "23673789",
+      "name": "箭 头",
+      "font_class": "jiantouyou",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}

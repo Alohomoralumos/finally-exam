@@ -1,0 +1,28 @@
+{
+    "name":"rush_purchase",
+    "num":3,
+    "items":[
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"},
+        {"src":"https://img3m0.ddimg.cn/63/17/23990040-1_l_14.jpg","name":"【中商原版】夏洛特的网/夏洛的网","cost":"¥21.50"}
+    ],
+    "right_pictures1":[
+        "http://img61.ddimg.cn/2022/4/29/2022042916592687882.jpeg",
+        "http://img63.ddimg.cn/2021/7/29/2021072910571933128.jpg",
+        "http://img63.ddimg.cn/2022/4/29/2022042916502027326.jpeg",
+        "http://img61.ddimg.cn/2022/4/28/2022042819424212143.jpg"
+    ],
+    "right_pictures2":[
+        "http://img60.ddimg.cn/2022/4/29/2022042916553356492.jpeg",
+        "http://img62.ddimg.cn/2022/4/29/2022042916524156984.jpeg",
+        "http://img61.ddimg.cn/2022/4/29/2022042916562935229.jpeg",
+        "http://img63.ddimg.cn/2022/4/29/2022042916472266525.jpeg"
+    ]
+}
